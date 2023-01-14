@@ -1,4 +1,4 @@
-# Web Programming
+# WEB PROGRAMMING PROJECTS
 
 This repository contains a collection of Web Programming Projects
 
