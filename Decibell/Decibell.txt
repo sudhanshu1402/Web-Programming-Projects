@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Decibell</title>
+<link rel="stylesheet" type="text/css" id="applicationStylesheet" href="Web_1920___1.css"/>
+<script id="applicationScript" type="text/javascript" src="Web_1920___1.js"></script>
+</head>
+<body>
+<div id="Decibell">
+	<svg class="Rectangle_1">
+		<rect fill="rgba(0,0,0,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_1" rx="0" ry="0" x="0" y="0" width="1920" height="1092">
+		</rect>
+	</svg>
+	<img id="component__5_" src="component__5_.png" srcset="component__5_.png 1x, component__5_@2x.png 2x">
+	<img id="component__14_" src="component__14_.png" srcset="component__14_.png 1x, component__14_@2x.png 2x">
+	<img id="component__1_" src="component__1_.png" srcset="component__1_.png 1x, component__1_@2x.png 2x">
+	<img id="component__10_" src="component__10_.png" srcset="component__10_.png 1x, component__10_@2x.png 2x">
+	<img id="component__8_" src="component__8_.png" srcset="component__8_.png 1x, component__8_@2x.png 2x">
+	<img id="component__12_" src="component__12_.png" srcset="component__12_.png 1x, component__12_@2x.png 2x">
+	<img id="component" src="component.png" srcset="component.png 1x, component@2x.png 2x">
+	<img id="component__9_" src="component__9_.png" srcset="component__9_.png 1x, component__9_@2x.png 2x">
+	<img id="component__3_" src="component__3_.png" srcset="component__3_.png 1x, component__3_@2x.png 2x">
+	<img id="component__7_" src="component__7_.png" srcset="component__7_.png 1x, component__7_@2x.png 2x">
+	<img id="component__11_" src="component__11_.png" srcset="component__11_.png 1x, component__11_@2x.png 2x">
+	<img id="component__6_" src="component__6_.png" srcset="component__6_.png 1x, component__6_@2x.png 2x">
+	<img id="component__4_" src="component__4_.png" srcset="component__4_.png 1x, component__4_@2x.png 2x">
+	<img id="component__2_" src="component__2_.png" srcset="component__2_.png 1x, component__2_@2x.png 2x">
+	<svg class="Rectangle_3">
+		<rect fill="rgba(0,0,0,0.71)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_3" rx="0" ry="0" x="0" y="0" width="1920" height="1092">
+		</rect>
+	</svg>
+	<div id="__Stand_out_and_be_heard__ever">
+		<span>" </span><span style="font-family:Algerian;">S</span><span>tand out and be heard,<br/>every </span><span style="font-style:normal;font-weight:bold;">voice</span><span> has a </span><span style="font-style:normal;font-weight:bold;">value</span><span>. "</span>
+	</div>
+	<svg class="Line_1" viewBox="0 0 301.98 590.01">
+		<path fill="transparent" stroke="rgba(255,255,255,1)" stroke-width="6px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Line_1" d="M 301.9800109863281 0 L 0 590.010009765625">
+		</path>
+	</svg>
+	<img id="component__13_" src="component__13_.png" srcset="component__13_.png 1x, component__13_@2x.png 2x">
+	<div id="Decibell">
+		<span>Decibell</span>
+	</div>
+	<div id="Speak">
+		<span>Speak</span>
+	</div>
+	<div id="Share">
+		<span>Share</span>
+	</div>
+	<div id="Inspire">
+		<span>Inspire</span>
+	</div>
+	<svg class="Line_2" viewBox="0 0 4 61">
+		<path fill="transparent" stroke="rgba(255,255,255,1)" stroke-width="4px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Line_2" d="M 0 0 L 0 61">
+		</path>
+	</svg>
+	<svg class="Line_3" viewBox="0 0 4 61">
+		<path fill="transparent" stroke="rgba(255,255,255,1)" stroke-width="4px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Line_3" d="M 0 0 L 0 61">
+		</path>
+	</svg>
+	<svg class="Line_4" viewBox="0 0 4 61">
+		<path fill="transparent" stroke="rgba(255,255,255,1)" stroke-width="4px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Line_4" d="M 0 0 L 0 61">
+		</path>
+	</svg>
+	<svg class="Rectangle_4">
+		<rect fill="rgba(255,255,255,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="round" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_4" rx="24" ry="24" x="0" y="0" width="450" height="68">
+		</rect>
+	</svg>
+	<div id="E___mail">
+		<span>E - mail</span>
+	</div>
+	<div id="COMING_SOON__">
+		<span>COMING SOON !</span>
+	</div>
+	<svg class="Rectangle_5">
+		<rect fill="rgba(0,0,0,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="round" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_5" rx="14" ry="14" x="0" y="0" width="281.048" height="52">
+		</rect>
+	</svg>
+	<div id="Subscribe">
+		<span>Subscribe</span>
+	</div>
+	<div id="Its_going_to_be_amazing_">
+		<span>Its going to be amazing!</span>
+	</div>
+	<div id="Subscribe_to_find_out_when_it_">
+		<span>Subscribe to find out when it's ready</span>
+	</div>
+</div>
+</body>
+</html>
